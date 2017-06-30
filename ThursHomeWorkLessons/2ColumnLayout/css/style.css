@@ -1,0 +1,22 @@
+
+section{
+border: 1px dashed red;
+width: 70%;
+	
+}
+aside {
+	border: 1px dashed blue;
+	width: 20%;
+}
+footer {
+	border: 1px dashed purple;
+}
+main{
+	border: 1px dashed orange;
+	width: 100%;
+}
+header{
+	border: 1px dashed gold;
+	width: 70%;
+	height: 100px;
+}
